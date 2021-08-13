@@ -20,3 +20,12 @@ Refer screenshots for working.
 ![App Screenshot](https://github.com/aryan1519/RandomStuff/blob/main/step2.png)
 
 ![App Screenshot](https://github.com/aryan1519/RandomStuff/blob/main/step3.png)
+
+
+TO DO
+
+* While displaying positions of the labels can be adjusted (Eg conclusion,results in the end objective,etc in the beginning).
+
+* The model can be fine tuned to get better results.
+
+* Feature Engineering may help in improvement (line numbers and total lines in abstract can be used differently).
