@@ -26,6 +26,12 @@ TO DO
 
 * While displaying positions of the labels can be adjusted (Eg conclusion,results in the end objective,etc in the beginning).
 
+* Trained only for 3 epochs. Can be trained for longer with callbacks.
+
 * The model can be fine tuned to get better results.
 
 * Feature Engineering may help in improvement (line numbers and total lines in abstract can be used differently).
+
+* USE is used instead of GloVe(used in paper). Results can be compared.
+
+* Replacing USE with BERT PubMed expert (pretrained on PubMed texts) may improve results. 
